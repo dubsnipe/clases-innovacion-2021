@@ -15,3 +15,9 @@ Por ello, esta cátedra tiene como propósito sentar los fundamentos de la innov
 * [04. Casos de estudio - 20200127](/04/04.html)
 * [05-06. Características de organizaciones innovadoras - 20200129-20200130](/05/05.html)
 * [07-08. Aceleración de ecosistemas de innovación - 20200210](/07-08/07-08.html)
+
+## Lecturas recomendadas
+
+* Small is beautiful 
+  * [[Libro](https://www.amazon.com/Small-Beautiful-Economics-Mattered-Perennial/dp/0061997765)]
+  * [[Artículo](https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea)]
