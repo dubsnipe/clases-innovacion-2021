@@ -5,9 +5,10 @@ La Innovación actualmente es uno de los pilares estratégicos fundamentales de 
 
 Por ello, esta cátedra tiene como propósito sentar los fundamentos de la innovación como un campo de acción estratégico para mantener vigente la propuesta de valor de las organizaciones, empero, sobre todo buscando que su propósito sea vigente con los grandes cambios que el mundo está teniendo con las olas tecnológicas, cada vez más frecuentes en su nacimiento, desarrollo y transición hacia nuevas disrupciones.
 
-## Materiales
+## Programa
+[Programa de clases](PROGRAMA.md)
 
-* [Programa](PROGRAMA.md)
+## Clases
 * [01. Introducción a la innovación - 20200120](/01/01.html)
 * [02. Ecosistemas de innovación - 20200122](/02/02.html)
 * [03. Ecosistemas de innovación - 20200123](/03/03.html)
