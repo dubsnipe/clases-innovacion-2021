@@ -5,8 +5,6 @@ La Innovación actualmente es uno de los pilares estratégicos fundamentales de 
 
 Por ello, esta cátedra tiene como propósito sentar los fundamentos de la innovación como un campo de acción estratégico para mantener vigente la propuesta de valor de las organizaciones, empero, sobre todo buscando que su propósito sea vigente con los grandes cambios que el mundo está teniendo con las olas tecnológicas, cada vez más frecuentes en su nacimiento, desarrollo y transición hacia nuevas disrupciones.
 
-Se invitarán a profesionales líderes de las temáticas del curso para brindar insumos y casos de análisis y ellos tendrán a su vez un rol de seguimiento en los resultados finales que se presentarán en los Proyectos de ID+i, para aportar al proceso de forma integral y sustancial.
-
 ## Materiales
 
 * [Programa](/)
