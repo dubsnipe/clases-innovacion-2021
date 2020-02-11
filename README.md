@@ -1,4 +1,4 @@
 # clases-innovacion
 
 Links
-(/01/01.html)[Link]
+[Link](/01/01.html)
