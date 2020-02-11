@@ -7,7 +7,7 @@ Por ello, esta cátedra tiene como propósito sentar los fundamentos de la innov
 
 ## Materiales
 
-* [Programa](/)
+* [Programa](PROGRAMA.md)
 * [01. Introducción a la innovación - 20200120](/01/01.html)
 * [02. Ecosistemas de innovación - 20200122](/02/02.html)
 * [03. Ecosistemas de innovación - 20200123](/03/03.html)
