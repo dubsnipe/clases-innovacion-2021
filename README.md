@@ -18,6 +18,6 @@ Por ello, esta cátedra tiene como propósito sentar los fundamentos de la innov
 
 ## Lecturas recomendadas
 
-* Small is beautiful 
+* Schumacher, E. F. (2011). Small is beautiful: A study of economics as if people mattered. Random House.
   * [[Libro](https://www.amazon.com/Small-Beautiful-Economics-Mattered-Perennial/dp/0061997765)]
   * [[Artículo](https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea)]
