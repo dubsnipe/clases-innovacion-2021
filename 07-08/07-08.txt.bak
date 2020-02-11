@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>07-08. 20200210</title>
+  
+    <meta charset="utf-8">
+    <!-- https://github.com/gnab/remark -->
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Viga&display=swap');
+
+      body { font-family: 'Arimo'; font-weight: 400; font-size:2rem;}
+      h1, h2, h3 { font-family: 'Viga', sans-serif; margin: .5rem 0; padding: 0; }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .footnote {
+        position: absolute;
+        bottom: 1em;
+        right: 5rem;
+        <!-- color: #ffca28; -->
+        color: #111;
+        padding: 0.3rem;
+        margin: 5px;
+        text-align: right;
+        font-size: 0.6rem;
+      }
+      h3{color:#555; border-left: 10px solid #666; padding-left: 1rem;}
+      p{font-size:1.4rem;}
+      ul, ol{margin-bottom: 1.4rem; font-size:2rem;}
+      ol li, ul li{margin-bottom: 1rem;}
+      
+      .inverse .footnote {
+        color: #ffca28;
+      }      
+      .inverse {
+        background: #272822;
+        color: #fefefe;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+      
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+      img{
+        max-width: 70%;
+        max-height: 70%;
+        text-align: center;
+        margin: 0 auto;
+      }
+
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: left, middle, inverse
+
+# 07. Aceleración de ecosistemas de innovación
+## 20200210
+
+---
+class: inverse
+# Temas cubiertos
+
+* ¿Qué es la innovación?
+* Áreas o dominios de la innovación
+* Aspectos individuales y sociales de la innovación
+
+
+https://hbr.org/resources/images/article_assets/2014/12/theinnovatorsmethod.png
+---
+
+class: middle
+
+# Diseño como actividad genealógica-procesal
+*"(...) Si el Diseño es un diferencial competitivo capaz de multiplicar el retorno en la inversión, muchas veces manteniendo exactamente el mismo arreglo productivo, el diseñador es el profesional mítico por excelencia para pensar en el problema. Lo que no queda claro en ningún libro de pensadores o en la historia de la industria es cómo, a la larga, ese diseñador piensa."*
+
+* Arreglos productivos (A)
+* Variables sociales, políticas, económicas, estéticas, ambientales (V)
+* Proceso de Diseño (T)
+
+---
+
+.center[![Creatividad individual](../img/05-cristo01.png)]
+
+.footnote[Sant'Anna, Hugo Cristo. (2013). Design sem Designer. Edição do autor, Serra, Brasil.]
+
+---
+
+# Innovación
+* Solución técnico-científica
+* Grado de novedad
+* Factibilidad (fabricación, uso, mantenimiento, etc.)
+* Costo
+* Percepción/comunicación de ideas
+* Capacidad de masificación
+
+---
+
+class: center, middle, inverse
+## Idea 1: El proceso de innovación es principalmente uno de comunicación.
+
+---
+
+# PlayPump
+.center[![PlayPump](../img/05-playpump.jpg)]
+.footnote[https://blogs.ei.columbia.edu/2010/07/01/the-playpump-what-went-wrong/]
+
+---
+
+# PlayPump
+.center[![PlayPump](../img/05-playpump02.jpg)]
+.footnote[https://blogs.ei.columbia.edu/2010/07/01/the-playpump-what-went-wrong/]
+
+
+---
+
+class: center, middle, inverse
+## Idea 2: El proceso de innovación es puramente técnico
+
+---
+
+class: center, middle
+<img style="display: block;" src="https://c2.staticflickr.com/4/3808/9359984529_971f13fd8b_b.jpg" alt="PF3175_bilayer_h">
+
+.footnote[<a href="https://www.flickr.com/photos/hinklegroup/9359984529/">"PF3175_bilayer_h"</a><span> by <a href="https://www.flickr.com/people/hinklegroup/">Hinkle Group</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-SA 2.0</a><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a>]
+
+---
+
+class: center, middle
+### ‘We considered patenting (...) I approached a guy at a conference and said, “(...) would you be interested in sponsoring it (...)” The guy told me, “We are looking at graphene (...), we will put a hundred patent lawyers on it to write a hundred patents a day, and you will spend the rest of your life (...) suing us.”'
+
+---
+
+class: center, middle, inverse
+## Idea 3: El proceso de innovación es únicamente masivo.
+
+---
+
+class: center, middle
+### It may seem like there is not much you can do with less than 1,000 units of a thing, but because hardware production has traditionally been the prisoner of economies of—yes—scale, this is precisely the level where many needs remain unmet.
+
+.footnote[https://dai-global-digital.com/you-keep-using-that-word-why-scale-doesnt-mean-what-you-think-it-means.html]
+
+---
+
+class: center, middle
+### "The goal is not to reduce cultural resistance and maximize  adoption, but to provide an empowered experience where users have control over technology."
+.footnote[Van Amstel, F., Vassao, C. A., & Ferraz, G. B. <br>(2012, November). Design Livre: cannibalistic interaction design. In Innovation in design education: <br>proceedings of the third international forum of design as a process, <br>3-5 November 2011, Torino, Italy (pp. 442-456). Umberto Allemandi & C..]
+
+---
+
+background-image: url(../img/05-fred.png)
+
+---
+
+class: center,middle,inverse
+## Idea 4: La innovación solo requiere de la inversión correcta.
+
+---
+
+class: center,middle
+# Joy's Law: "No matter who you are, most of the smartest people work for someone else."
+
+---
+
+# Tarea: Revisión bibliográfica
+
+* Responder a la pregunta: ¿Qué elementos creo personalmente que se requiere para lograr innovación en mi contexto como estudiante salvadoreño?
+* Investigar al menos 10 artículos o libros y generar un documento con ideas principales. El documento muestra: fuente (APA o MLA) y 75 palabras de resumen por cada cita con las ideas que hallen más interesantes. Total: 500 palabras.
+* Subir el 10-feb por Drive. 
+    * Recuerden que queda fijada la fecha y hora.
+---
+
+Algunas lecturas recomendadas:
+<small>
+* https://3dprint.com/262463/the-maker-movement-unmade-part-6-the-community-responds-continued/
+* https://www.tandfonline.com/doi/abs/10.1080/15487733.2012.11908095
+* http://fredvanamstel.com/wp-content/uploads/2012/04/Cannibalistic_IxD_Innovation_in_Design_Education.pdf
+* https://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97
+* https://dai-global-digital.com/you-keep-using-that-word-why-scale-doesnt-mean-what-you-think-it-means.html
+* https://hbr.org/2014/12/choose-the-right-innovation-method-at-the-right-time
+</small>
+---
+class:inverse
+Libros en biblioteca:
+* Kelley, T. (2002) The Art of Innovation: Lessons in Creativity from IDEO, America's Leading
+* Design Firm: Success Through Innovation the IDEO Way. USA, Profile Books.
+* Kelley, D. (2015); Creative Confidence: Unleashing the Creative Potential Within Us All. USA, Currency Books.
+* Brown, T. (2009); Change by design. USA, Harper Collins.
+* d.School-Stanford (2009) Mini guía: una introducción al Design Thinking (Versión Español). USA, Hasso Plattner Institute of design at Stanford.
+
+<!-- 1. Descargar y leer: https://creativecommons.org/use-remix/made-with-cc/
+1. Hacer un mapa mental (mindmap) que relacione los modelos de negocios de los 24 casos de estudio del libro. Puede ser a mano.
+1. Piensen: ¿cuáles van a funcionar, cuáles no?
+1. Traer impreso el próximo miércoles.-->
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
+
+<!-- 
+# Vídeo
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+```
+
+# Images
+```
+.center[![Creatividad sociocultural](img/01-sawyer.png)]
+
+.right[![Right-aligned image](https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg)]
+```
+
+# Background images
+The background-image slide property lets you set the background-image CSS property for the slide:
+
+``
+background-image: url(image.jpg)
+
+Slide with background image
+```
+
+-->
