@@ -26,3 +26,4 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
   * [[Libro](https://www.amazon.com/Small-Beautiful-Economics-Mattered-Perennial/dp/0061997765)]
   * [[Artículo](https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea)]
 * Cross, Nigel, David Elliott, and Robin Roy. *Man-made futures: readings in society, technology and design*. Hutchinson, 1974.
+* Fried, J., & Hansson, D. H. (2010). *Rework*. Currency.
