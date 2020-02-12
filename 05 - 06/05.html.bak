@@ -2,7 +2,7 @@
 <html>
   <head>
   
-    <title>05-06. 20200129-20200130</title>
+    <title>05-06. - 20200129-20200130</title>
   
     <meta charset="utf-8">
     <!-- https://github.com/gnab/remark -->
@@ -112,7 +112,7 @@ class: middle
 
 ---
 
-class: center, middle
+class: center, middle, inverse
 ## Idea 1: El proceso de innovación es principalmente uno de comunicación.
 
 ---
