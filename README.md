@@ -14,7 +14,8 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 ## Clases
 * [01. Introducción a la innovación - 20200120](/01/01.html)
 * [02. Ecosistemas de innovación - 20200122](/02/02.html)
-* [03. Ecosistemas de innovación - 20200123](/03/03.html) | [Presentación: Open Innovation](/03/open-innovation.pdf)
+* [03. Ecosistemas de innovación - 20200123](/03/03.html)
+  * [03.1. Presentación: Open Innovation](/03/open-innovation.pdf)
 * [04. Casos de estudio - 20200127](/04/04.html)
 * [05-06. Características de organizaciones innovadoras - 20200129-20200130](/05/05.html)
 * [07-08. Aceleración de ecosistemas de innovación - 20200210](/07-08/07-08.html)
