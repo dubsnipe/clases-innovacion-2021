@@ -22,8 +22,11 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 
 ## Lecturas recomendadas
 
+### Libros
 * Schumacher, E. F. (2011). *Small is beautiful: A study of economics as if people mattered*. Random House.
-  * [[Libro](https://www.amazon.com/Small-Beautiful-Economics-Mattered-Perennial/dp/0061997765)]
-  * [[Artículo](https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea)]
 * Cross, Nigel, David Elliott, and Robin Roy. *Man-made futures: readings in society, technology and design*. Hutchinson, 1974.
 * Fried, J., & Hansson, D. H. (2010). *Rework*. Currency.
+
+### Artículos
+* Bunting, M. (2020). *Small is beautiful – an economic idea that has sadly been forgotten* | Madeleine Bunting. Retrieved 13 February 2020, from https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
+*  Chesbrough, Henry W. (2003). “The Era of Open Innovation,” MIT Sloan Management Review 44, no. 2 (Spring 2003): 35-41. 
