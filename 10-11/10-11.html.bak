@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>10-11. Innovación centrada en las personas - 20200217</title>
+  
+    <meta charset="utf-8">
+    <!-- https://github.com/gnab/remark -->
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Viga&display=swap');
+
+      body {font-family: 'Arimo'; font-weight: 400; font-size:2rem;}
+      div p {font-size:2rem;}
+      h1, h2, h3 { font-family: 'Viga', sans-serif; margin: .5rem 0; padding: 0; }
+      .footnote a, .footnote a:hover, .footnote a:visited{text-decoration:none;}
+      .inverse a:visited{color:white; text-decoration:none;}
+                a:visited{color:blue;}
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .footnote {
+        position: absolute;
+        bottom: 1em;
+        right: 5rem;
+        <!-- color: #ffca28; -->
+        color: #111;
+        padding: 0.3rem;
+        margin: 5px;
+        text-align: right;
+        font-size: 0.6rem;
+      }
+      h3{color:#555; border-left: 10px solid #666; padding-left: 1rem;}
+      p{font-size:1.4rem;}
+      ul, ol{margin-bottom: 1.4rem; font-size:2rem;}
+      ol li, ul li{margin-bottom: 1rem;}
+      
+      blockquote, .blockquote {display:block; border-left: 8px solid #e55e74; padding-left: 1rem; color:#555; font-size:2rem;}
+      {border-left: 8px solid #ddd; padding-left: 1rem; color:#555; font-size:2rem;}
+      .inverse blockquote{border-left: 8px solid #ddd; padding-left: 1rem; color:#ddd font-size:2rem;}
+
+      .inverse .footnote {
+        color: #ffca28;
+      }      
+      .inverse {
+        background: #272822;
+        color: #fefefe;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+      
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+      img{
+        max-width: 70%;
+        max-height: 70%;
+        text-align: center;
+        margin: 0 auto;
+      }
+      .large-image img{
+        min-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: left, middle, inverse
+
+# 10. Innovación centrada en las personas (ii)
+## 20200217
+
+---
+
+class: inverse, middle
+
+# Discusión
+
+* ¿Pueden definir el término '*innovación centrada en las personas*'?
+* ¿Qué le diferencia de un enfoque **no** centrado en las personas?
+
+---
+
+class: middle
+# Human-Centered Design
+
+<blockquote>"El mérito del HCD (...) es la posibilidad de acercarse al usaurio en la medida de lo posible. Esta proximación es tradicionalmente parte del método y posee tantas encarnaciones como existen concepciones del usuario. En una situación semejante a la de los métodos, existen estrategias de observación más intuitivas, otras inspiradas en el rigor de las ciencias sociales y del comportamiento (etnografías, estudios clínicos, dinámicas de grupos, entrevistas) [...]"</blockquote>
+
+.footnote[Sant'Anna, Hugo Cristo. (2013). Design sem Designer. Edição do autor, Serra, Brasil.]
+---
+
+class: middle
+<blockquote>"A pesar de no estar de acuerdo en lo que significa un insight, el uso del término evidencia el paepl de la aproximación con los usarios en llenar las lagunas entre las variables del proyecto. O incluso aun más: la investigación con los usuarios permite al diseñador (re)construir su 'convertirse en usuario'. Por más que parezca obvio que todo diseñador también es un usuario, esta postura trae implicaciones relevantes (...)"</blockquote>
+
+.footnote[Sant'Anna, Hugo Cristo. (2013). Design sem Designer. Edição do autor, Serra, Brasil.]
+
+---
+
+.large-image[![HBRInnovation](https://hbr.org/resources/images/article_assets/2014/12/anendtoendinnovation.png)]
+
+---
+# ¿Qué es diferente de la HCI?
+
+.large-image[![Creatividad sociocultural](../img/10-00.png)]
+
+.footnote[Furr, N., & Dyer, J. (2014). The Innovator's Method: Bringing the Lean Start-Up Into Your Organization. Harvard Business Review Press.]
+
+---
+
+# Palabra clave: insight
+
+El *design thinking* lo define como una idea que da lugar a una propuesta innovadora. La enseñanza de la innovación está compuesta de herramientas para la generación de *insights*.
+
+---
+
+class: center, middle
+
+.large-image[![Creatividad sociocultural](../img/10-03.png)]
+.footnote[Furr, N., & Dyer, J. (2014). The Innovator's Method: Bringing the Lean Start-Up Into Your Organization. Harvard Business Review Press.]
+
+---
+
+class: inverse, middle
+
+# Enfoques del HCI
+
+1. Productos (o servicios) que generan satisfacción.
+2. Productos (o servicios) que generan impacto.
+
+---
+
+# HCI para la satisfacción personal
+
+.blockquote[Los productos que satisfacen a los consumidores hacen lo inesperado. Solucionan un problema que los clientes no sabían que tenían, o evocan una emoción positiva. Pero, ¿cómo puede una empresa generar productos que satisfacen a los consumidores?]
+
+.footnote[Furr, N., & Dyer, J. (2014). The Innovator's Method: Bringing the Lean Start-Up Into Your Organization. Harvard Business Review Press.]
+
+---
+
+# HCI para el desarrollo social
+
+.blockquote[Si hablamos de promover el desarrollo, ¿qué tenemos en mente: bienes o personas? Si son personas, ¿qué personas en particular? ¿Quiénes son? ¿Dónde están? ¿Por qué necesitan ayuda? Si no pueden continuar sin ayuda, ¿qué ayuda necesitan? (...) Los bienes, por el otro lado, no hacen muchas preguntas.]
+
+.footnote[Schumacher, E. F. (2011). *Small is beautiful: A study of economics as if people mattered*. Random House.]
+
+---
+
+# El HCI para la independencia económica
+
+El objetivo de la innovación es la independencia, y por tanto, la soberanía económica.
+
+* Ejemplo: Comunicación 5G [<sup>[1]</sup>](https://www.trustedreviews.com/news/huawei-beating-samsung-in-5g-popularity-race-3970337)
+* Ejemplo: John Deere [<sup>[2]</sup>](https://www.forbes.com/sites/jasonbloomberg/2017/04/30/john-deeres-digital-transformation-runs-afoul-of-right-to-repair-movement/#123158355ab9) [<sup>[3]</sup>](https://www.eff.org/deeplinks/2016/12/john-deere-really-doesnt-want-you-own-tractor)
+
+---
+
+# Recordatorio de tarea
+
+Usar como apoyo: 
+
+* [Von Hippel, E. (2016). Free innovation. MIT press.](https://ageconsearch.umn.edu/record/277694)
+* [Benkler, Y. Y. Benkler, Peer Production and Cooperation, forthcoming in JM Bauer & M. Latzer (eds.), Handbook on the Economics of the Internet, Cheltenham and Northampton, Edward Elgar. Peer Production and Cooperation.](http://www.benkler.org/Peer%20production%20and%20cooperation%2009.pdf)
+* [Menichinelli, M., Schmidt, A. G. S., & FERRONATO, P. (2019, November). Mapping strategies for distributed, social and collaborative design systems of makers, designers and social entrepreneurs.](http://academicarchives.org/index.php/adim/article/view/45)
+* [Arancio, J. C. Open science hardware: towards more democratic science and technology in Latin America?. In International Symposium on Open Collaboration, 2019 **(p. 1)**.](https://www.diva-portal.org/smash/get/diva2:1356006/FULLTEXT01.pdf#page=8)
+
+
+---
+# Actividades
+
+* Definir mapa de empatía
+* Proponer la participación de una comunidad como elemento clave de la propuesta de valor.
+
+
+
+<!-- 1. Descargar y leer: https://creativecommons.org/use-remix/made-with-cc/
+1. Hacer un mapa mental (mindmap) que relacione los modelos de negocios de los 24 casos de estudio del libro. Puede ser a mano.
+1. Piensen: ¿cuáles van a funcionar, cuáles no?
+1. Traer impreso el próximo miércoles.-->
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
+
+<!-- 
+# Vídeo
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+```
+
+# Images
+```
+.center[![Creatividad sociocultural](img/01-sawyer.png)]
+
+.right[![Right-aligned image](https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg)]
+```
+
+# Background images
+The background-image slide property lets you set the background-image CSS property for the slide:
+
+``
+background-image: url(image.jpg)
+
+Slide with background image
+```
+
+-->
