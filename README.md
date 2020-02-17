@@ -19,6 +19,8 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 * [04. Casos de estudio - 20200127](/04/04.html)
 * [05-06. Características de organizaciones innovadoras - 20200129-20200130](/05/05.html)
 * [07-08. Aceleración de ecosistemas de innovación - 20200210](/07-08/07-08.html)
+* [09. Innovación centrada en las personas - 20200213](/09/09.html)
+* [10-11. Innovación centrada en las personas (ii) - 20200217](/10-11/10-11.html)
 
 ## Lecturas recomendadas
 
