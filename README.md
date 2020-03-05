@@ -21,8 +21,7 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 * [07-08. Aceleración de ecosistemas de innovación - 20200210](/07-08/07-08.html)
 * [09. Innovación centrada en las personas - 20200213](/09/09.html)
 * [10-11. Innovación centrada en las personas (ii) - 20200217](/10-11/10-11.html)
-* [12. Innovación centrada en las personas (ii) - 20200217](/10-11/10-11.html)
-* [12-13. El poder de la colaboración/Habilidades de organizaciones innovadoras](/12-13/12-13.html)
+* [12-13. El poder de la colaboración/Habilidades de organizaciones innovadoras - 20200305](/12-13/12-13.html)
 
 ## Lecturas recomendadas
 
@@ -32,6 +31,6 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 * Fried, J., & Hansson, D. H. (2010). *Rework*. Currency.
 
 ### Artículos
-* Bunting, M. (2020). *Small is beautiful – an economic idea that has sadly been forgotten* | Madeleine Bunting. Retrieved 13 February 2020, from https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
-*  Chesbrough, Henry W. (2003). “The Era of Open Innovation,” MIT Sloan Management Review 44, no. 2 (Spring 2003): 35-41. 
+* Bunting, M. (2020). *Small is beautiful – an economic idea that has sadly been forgotten*. Retrieved 13 February 2020, from https://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
+* Chesbrough, Henry W. (2003). “The Era of Open Innovation,” MIT Sloan Management Review 44, no. 2 (Spring 2003): 35-41. 
 * [Benkler, Y. Y. Benkler, Peer Production and Cooperation, forthcoming in JM Bauer & M. Latzer (eds.), Handbook on the Economics of the Internet, Cheltenham and Northampton, Edward Elgar. Peer Production and Cooperation.](http://www.benkler.org/Peer%20production%20and%20cooperation%2009.pdf)
