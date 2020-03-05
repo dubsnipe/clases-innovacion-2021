@@ -21,6 +21,8 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 * [07-08. Aceleración de ecosistemas de innovación - 20200210](/07-08/07-08.html)
 * [09. Innovación centrada en las personas - 20200213](/09/09.html)
 * [10-11. Innovación centrada en las personas (ii) - 20200217](/10-11/10-11.html)
+* [12. Innovación centrada en las personas (ii) - 20200217](/10-11/10-11.html)
+* [12-13. El poder de la colaboración/Habilidades de organizaciones innovadoras](/12-13/12-13.html)
 
 ## Lecturas recomendadas
 
