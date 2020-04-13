@@ -25,6 +25,8 @@ El archivo utilizado para hacer esta página, así como los archivos fuente de l
 * [14-15. Procesos creativos y de innovación/Diseño como herramienta - 20200309](/14-15/14-15.html)
 * [16. Modelos de negocio, fundamentos e implicaciones - 20200319](/16/16.html)
 * [17. Descripción de proyecto final - 20200324](/17/17.html)
+* [18. Casos de estudio de diseño de negocios](/18/18.html)
+* [19. Diseño de propuestas de valor](/19/19.html)
 
 ## Lecturas recomendadas
 
