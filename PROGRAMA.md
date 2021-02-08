@@ -1,5 +1,4 @@
 # Introducción a la innovación
-> Programa de clase
 
 ## Descripción
 La Innovación actualmente es uno de los pilares estratégicos fundamentales de las organizaciones y del mundo de los negocios. Asimismo, cabe destacar que la innovación empresarial consiste en términos generales en la introducción de un nuevo o significativamente mejorado producto, proceso, método de comercialización u organizativo en las prácticas internas de la empresa.
@@ -43,29 +42,36 @@ Al finalizar este curso, el alumno (1) conocerá la definición y fundamentos de
 Las principales estrategias metodológicas es esta cátedra serán las clases expositivas, proyecto transversal, lectura de libros y ensayos, visitas de campo y talleres prácticos de uso de técnicas y herramientas de innovación, design thinking y diseño de negocios.
 
 ## Criterios de evaluación
-La evaluación de las competencias de la cátedra será mediante talleres prácticos en cada técnica y herramienta de innovación y diseño de negocios; asimismo, se trabajará un proyecto transversal de forma grupal a lo largo del ciclo el cual será evaluado en término medio durante el primer parcial y en término final en el segundo parcial. La asistencia a clases no es obligatoria, en el sentido que ésta no es pre-requisito para tener derecho a las entregas parciales y/o final de su proyecto. Sin embargo, al ser un Curso altamente práctico y de discusión se espera que el estudiante esté presente en clase y tenga una disposición de aprender y aportar, por lo cual se solicita una conducta positiva en el aula. Por conducta positiva se entiende: puntualidad, no conversar de temas ajenos a la temática de la clase, no estar chateando o en páginas web no indicadas, evitar salir del aula mientras dure la sesión de clase, no comer ni fumar en el aula, y celular desconectado mientras dure la sesión, a menos que se dé una emergencia que lo amerite.
-
+ La asistencia a clases no es obligatoria. Sin embargo, al ser un curso altamente práctico y de discusión, se espera que el estudiante esté presente en clase para desarrollar tareas y proyectos grupales, por lo cual se solicita una conducta positiva. Por conducta positiva se entiende: puntualidad, no conversar de temas ajenos a la temática de la clase, no estar chateando o en páginas web no indicadas. Se solicitará en algunos casos específicos su participación que implica: interactuar en la llamada, compartir su cámara o pantalla y hacer trabajos en grupo con las demás participantes del curso.
+ 
 * Asistencia y participación (15%)
 * Actividades prácticas en clase (40%)
 * Documentación y tareas (30%)
 * Presentaciones (15%)
 
-## Materiales de apoyo
-### Libros
+## Bibliografía
+
+* Cross, N., Elliot, D., & Roy, R. (Eds.). (1974). Man-Made Futures: Readings in Society, Technology and Design (1st ed.). Hutchinson & Co.
+* Doorley, S., Holcomb, S., Klebahn, P., Segovia, K., & Utley, J. (2018). Design Thinking bootleg, dSchool. Institute of Design at Stanford.
+* El poder de la innovación disruptiva. (2019, December 13). SingularityU Colombia Summit. https://singularityucolombiasummit.com/blog/el-poder-de-la-innovacion-disruptiva/
+* García, J. F. M. (n.d.). Innovation in Business Models: Osterwalder´s Methodology in Practice. Revista MBA EAFIT, 18.
 * Hippel, V., & A, E. (2016). Sources of Innovation (SSRN Scholarly Paper ID 2877276). Social Science Research Network. https://papers.ssrn.com/abstract=2877276
+* Hutson, M. (2020, October 21). Why you don’t really know what you know. MIT Technology Review. https://www.technologyreview.com/2020/10/21/1009445/the-unbearable-vicariousness-of-knowledge/
+* Kelley, T., & Kelley, D. (2013). Creative confidence: Unleashing the creative potential within us all. Currency.
+* Kelley, T., & Littman, J. (2001). The art of innovation: Lessons in creativity from IDEO, America’s leading design firm (1st ed). Currency/Doubleday.
+* Mauzy, J., & Harriman, R. A. (2003). Creativity, Inc. Harvard Business School Press Boston, MA.
+* Perrin, B. (2002). How to—And How Not to—Evaluate Innovation. Evaluation, 8(1), 13–28. https://doi.org/10.1177/1358902002008001514
+* Plattner, H. (2018). Guía del proceso creativo. Mini guía: Una introducción al Design Thinking+ Bootcamp bootleg (F. González, Trans.).
+* Richard Montañez, el mexicano que inventó los “Cheetos Flamin” Hot’. (n.d.). Retrieved January 24, 2021, from https://www.milenio.com/virales/cheetos-richard-montanez-mexicano-invento-flamin-hot
+* Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford university press.
+* Small is beautiful – an economic idea that has sadly been forgotten | Madeleine Bunting. (2011, November 10). The Guardian. http://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
+* Taylor, L. (2020). There’s an app for that: Technological solutionism as COVID-19 policy in the Global North. SocArXiv. https://doi.org/10.31235/osf.io/grwsk
+* TEDxYouth. (2013, December 14). A Better Education: Lonny Grafman at TEDxYouth@HumboldtBay. https://www.youtube.com/watch?v=pc3C6OwfhOE
+* The Double Diamond: 15 years on | Design Council. (n.d.). Retrieved January 26, 2021, from https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years
 * Van Amstel, F., Gonzatto, R. F., Junges, E., Costa, R., Veloso, D., da Cruz Costa, K., Marins, P., Giuliano, R., Chuves, V., Fuchs, F., Ferraz, G., & Rückert, A. (2012). Diseño Libre (E. Velis, P. Álvarez, J. Soto Galindo, S. Henríquez, I. Sol, R. Flores, S. Burgos, & D. Palacios, Trans.; 1st ed.). Instituto Faber-Ludens. http://designlivre.org/
-* Von Hippel, E. (2016). Free innovation (p. 240). The MIT Press.
-* Mauzy, J., & Harriman, R. A. (2003). Creativity, Inc. Boston, MA: Harvard Business School Press.
-* Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford University Press.
-* Kelley, T. (2002) The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm: Success Through Innovation the IDEO Way. USA, Profile Books.
-* Kelley, D. (2015); Creative Confidence: Unleashing the Creative Potential Within Us All. USA, Currency Books.
-* Brown, T. (2009); Change by design. USA, Harper Collins.
+* Von Hippel, E. (2016). Free innovation. The MIT Press.
+* What Is Disruptive Innovation? (2015, December 1). Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
+* Zebra, L. (2016, January 1). Teoría de la pupusa: Fenómeno histórico y cultural (conversatorio). La Zebra. https://lazebra.net/2016/01/01/teoria-pupusa/
 
-### Artículos y otros materiales
-* d.School-Stanford (2009) Mini guía: una introducción al Design Thinking (Versión Español). USA, Hasso Plattner Institute of Design at Stanford.Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford university press.
 
-## Ver también
-* https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years
-* http://www.eafit.edu.co/revistas/revistamba/documents/innovacion-modelo-negocio.pdf
-* https://www.strategyzer.com/
-* https://dschool.stanford.edu/
+Nota: versión con bibliografía actualizada en https://github.com/dubsnipe/clases-innovacion-2021/blob/main/PROGRAMA.md.
