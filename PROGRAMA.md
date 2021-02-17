@@ -51,27 +51,39 @@ Las principales estrategias metodológicas es esta cátedra serán las clases ex
 
 ## Bibliografía
 
-* Cross, N., Elliot, D., & Roy, R. (Eds.). (1974). Man-Made Futures: Readings in Society, Technology and Design (1st ed.). Hutchinson & Co.
-* Doorley, S., Holcomb, S., Klebahn, P., Segovia, K., & Utley, J. (2018). Design Thinking bootleg, dSchool. Institute of Design at Stanford.
-* El poder de la innovación disruptiva. (2019, December 13). SingularityU Colombia Summit. https://singularityucolombiasummit.com/blog/el-poder-de-la-innovacion-disruptiva/
-* García, J. F. M. (n.d.). Innovation in Business Models: Osterwalder´s Methodology in Practice. Revista MBA EAFIT, 18.
-* Hippel, V., & A, E. (2016). Sources of Innovation (SSRN Scholarly Paper ID 2877276). Social Science Research Network. https://papers.ssrn.com/abstract=2877276
-* Hutson, M. (2020, October 21). Why you don’t really know what you know. MIT Technology Review. https://www.technologyreview.com/2020/10/21/1009445/the-unbearable-vicariousness-of-knowledge/
-* Kelley, T., & Kelley, D. (2013). Creative confidence: Unleashing the creative potential within us all. Currency.
-* Kelley, T., & Littman, J. (2001). The art of innovation: Lessons in creativity from IDEO, America’s leading design firm (1st ed). Currency/Doubleday.
-* Mauzy, J., & Harriman, R. A. (2003). Creativity, Inc. Harvard Business School Press Boston, MA.
-* Perrin, B. (2002). How to—And How Not to—Evaluate Innovation. Evaluation, 8(1), 13–28. https://doi.org/10.1177/1358902002008001514
-* Plattner, H. (2018). Guía del proceso creativo. Mini guía: Una introducción al Design Thinking+ Bootcamp bootleg (F. González, Trans.).
-* Richard Montañez, el mexicano que inventó los “Cheetos Flamin” Hot’. (n.d.). Retrieved January 24, 2021, from https://www.milenio.com/virales/cheetos-richard-montanez-mexicano-invento-flamin-hot
-* Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford university press.
-* Small is beautiful – an economic idea that has sadly been forgotten | Madeleine Bunting. (2011, November 10). The Guardian. http://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
-* Taylor, L. (2020). There’s an app for that: Technological solutionism as COVID-19 policy in the Global North. SocArXiv. https://doi.org/10.31235/osf.io/grwsk
-* TEDxYouth. (2013, December 14). A Better Education: Lonny Grafman at TEDxYouth@HumboldtBay. https://www.youtube.com/watch?v=pc3C6OwfhOE
-* The Double Diamond: 15 years on | Design Council. (n.d.). Retrieved January 26, 2021, from https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years
-* Van Amstel, F., Gonzatto, R. F., Junges, E., Costa, R., Veloso, D., da Cruz Costa, K., Marins, P., Giuliano, R., Chuves, V., Fuchs, F., Ferraz, G., & Rückert, A. (2012). Diseño Libre (E. Velis, P. Álvarez, J. Soto Galindo, S. Henríquez, I. Sol, R. Flores, S. Burgos, & D. Palacios, Trans.; 1st ed.). Instituto Faber-Ludens. http://designlivre.org/
-* Von Hippel, E. (2016). Free innovation. The MIT Press.
-* What Is Disruptive Innovation? (2015, December 1). Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
-* Zebra, L. (2016, January 1). Teoría de la pupusa: Fenómeno histórico y cultural (conversatorio). La Zebra. https://lazebra.net/2016/01/01/teoria-pupusa/
+*Briede W, J. C., & Mora, M. L. (2016). Diseño y Co-Creación Mediante Aprendizaje y Servicio en Contexto Vulnerable: Análisis de Percepción de la Experiencia. Formación Universitaria, 9(1), 57–70. https://doi.org/10.4067/S0718-50062016000100007
+*Charles Haycock. (2013, March 28). The Summit Documentary. https://www.youtube.com/watch?v=1EJmGyXNvsw
+*Cooke, R. (2020, February 17). Wikipedia Is the Last Best Place on the Internet. Wired. https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/
+*Cordoba, C. (2015). Fundamentos del pensamiento en diseño. Revista Investigium IRE Ciencias Sociales y Humanas, 6(2), 38–50.
+*Cross, N., Elliot, D., & Roy, R. (Eds.). (1974). Man-Made Futures: Readings in Society, Technology and Design (1st ed.). Hutchinson & Co.
+*Doorley, S., Holcomb, S., Klebahn, P., Segovia, K., & Utley, J. (2018). Design Thinking bootleg, dSchool. Institute of Design at Stanford.
+*El poder de la innovación disruptiva. (2019, December 13). SingularityU Colombia Summit. https://singularityucolombiasummit.com/blog/el-poder-de-la-innovacion-disruptiva/
+*Facultad de Arquitectura UNALMED. (2013, October 15). Insitu Fablab Unal. https://www.youtube.com/watch?v=Rnjk_f4rBsk
+*García, J. F. M. (n.d.). Innovation in Business Models: Osterwalder´s Methodology in Practice. Revista MBA EAFIT, 18.
+*Geels, F. W. (2005). Processes and patterns in transitions and system innovations: Refining the co-evolutionary multi-level perspective. Technological Forecasting and Social Change, 72(6), 681–696. https://doi.org/10.1016/j.techfore.2004.08.014
+*Geels, Frank W., & Schot, J. (2007). Typology of sociotechnical transition pathways. Research Policy, 36(3), 399–417. https://doi.org/10.1016/j.respol.2007.01.003
+*Hippel, V., & A, E. (2016). Sources of Innovation (SSRN Scholarly Paper ID 2877276). Social Science Research Network. https://papers.ssrn.com/abstract=2877276
+*Hurst, M. (2019, October 24). Creative Good: Juul and the corruption of design thinking [Blog]. Creative Good. https://creativegood.com/blog/19/juul-corruption-design-thinking.html
+*Hutson, M. (2020, October 21). Why you don’t really know what you know. MIT Technology Review. https://www.technologyreview.com/2020/10/21/1009445/the-unbearable-vicariousness-of-knowledge/
+*Kelley, T., & Kelley, D. (2013). Creative confidence: Unleashing the creative potential within us all. Currency.
+*Kelley, T., & Littman, J. (2001). The art of innovation: Lessons in creativity from IDEO, America’s leading design firm (1st ed). Currency/Doubleday.
+*Mauzy, J., & Harriman, R. A. (2003). Creativity, Inc. Harvard Business School Press Boston, MA.
+*Perrin, B. (2002). How to—And How Not to—Evaluate Innovation. Evaluation, 8(1), 13–28. https://doi.org/10.1177/1358902002008001514
+*Plattner, H. (2018). Guía del proceso creativo. Mini guía: Una introducción al Design Thinking+ Bootcamp bootleg (F. González, Trans.).
+*Richard Montañez, el mexicano que inventó los “Cheetos Flamin” Hot’. (n.d.). Retrieved January 24, 2021, from https://www.milenio.com/virales/cheetos-richard-montanez-mexicano-invento-flamin-hot
+*Rotman, D. (n.d.). Covid-19 has blown apart the myth of Silicon Valley innovation. MIT Technology Review. Retrieved February 5, 2021, from https://www.technologyreview.com/2020/04/25/1000563/covid-19-has-killed-the-myth-of-silicon-valley-innovation/
+*Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford university press.
+*Small is beautiful – an economic idea that has sadly been forgotten | Madeleine Bunting. (2011, November 10). The Guardian. http://www.theguardian.com/commentisfree/2011/nov/10/small-is-beautiful-economic-idea
+*Stanton—Minutes, A., & Stanton—Minutes, A. (2021, January 24). Do these 5 things and you’ll never run out of new ideas. Fast Company. https://www.fastcompany.com/90597174/do-these-5-things-and-youll-never-run-out-of-new-ideas
+*Taylor, L. (2020). There’s an app for that: Technological solutionism as COVID-19 policy in the Global North. SocArXiv. https://doi.org/10.31235/osf.io/grwsk
+*TEDxYouth. (2013, December 14). A Better Education: Lonny Grafman at TEDxYouth@HumboldtBay. https://www.youtube.com/watch?v=pc3C6OwfhOE
+*The Double Diamond: 15 years on | Design Council. (n.d.). Retrieved January 26, 2021, from https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years
+*Ubiquity staff. (2003). Building an inventive organization. Ubiquity, 2003(June), 1. https://doi.org/10.1145/782795.782796
+*Using Emergence To Take Social Innovations To Scale – Margaret J. Wheatley. (n.d.). Retrieved February 5, 2021, from https://margaretwheatley.com/library/articles/using-emergence-take-social-innovations-scale/
+*Van Amstel, F., Gonzatto, R. F., Junges, E., Costa, R., Veloso, D., da Cruz Costa, K., Marins, P., Giuliano, R., Chuves, V., Fuchs, F., Ferraz, G., & Rückert, A. (2012). Diseño Libre (E. Velis, P. Álvarez, J. Soto Galindo, S. Henríquez, I. Sol, R. Flores, S. Burgos, & D. Palacios, Trans.; 1st ed.). Instituto Faber-Ludens. http://designlivre.org/
+*Von Hippel, E. (2016). Free innovation. The MIT Press.
+*What Is Disruptive Innovation? (2015, December 1). Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
+*Zebra, L. (2016, January 1). Teoría de la pupusa: Fenómeno histórico y cultural (conversatorio). La Zebra. https://lazebra.net/2016/01/01/teoria-pupusa/
 
 
 Nota: versión con bibliografía actualizada en https://github.com/dubsnipe/clases-innovacion-2021/blob/main/PROGRAMA.md.
