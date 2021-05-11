@@ -2,25 +2,54 @@
 <html>
   <head>
   
-    <title>09. Innovación centrada en las personas - 20200213</title>
+    <title>07. Ontologías de modelos de negocio</title>
   
     <meta charset="utf-8">
     <!-- https://github.com/gnab/remark -->
     <style>
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
       @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Viga&display=swap');
+	  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap');
 
-      body { font-family: 'Arimo'; font-weight: 400; font-size:2rem;}
-      h1, h2, h3 { font-family: 'Viga', sans-serif; margin: .5rem 0; padding: 0; }
+	  body{
+			font-family: 'Rubik', sans-serif;
+			color: rgba(10, 10, 10, 0.85);
+		}
+	  .remark-slide-content{
+			background: #e7d77f;
+		
+	  }
+      div p {font-size:2rem;}
+          
+
+    h1{
+        text-shadow: 3px -3px .05px #ee84a4, -3px 2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h2{
+        text-shadow: none;
+    }	
+    #upcoming h2, h3{
+        text-shadow: 2px -2px .05px #ee84a4, -2px 1px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1:hover,h2:hover,h3:hover{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1::selection,h2::selection,h3::selection{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+        background:white;
+    }
       .footnote a, .footnote a:hover, .footnote a:visited{text-decoration:none;}
-      .inverse a:visited{color:white; text-decoration:none;}
+      .inverse a, .inverse a:visited{color:white; text-decoration:underline;}
                 a:visited{color:blue;}
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
       .footnote {
         position: absolute;
         bottom: 1em;
         right: 5rem;
-        <!-- color: #ffca28; -->
         color: #111;
         padding: 0.3rem;
         margin: 5px;
@@ -30,18 +59,22 @@
       h3{color:#555; border-left: 10px solid #666; padding-left: 1rem;}
       p{font-size:1.4rem;}
       ul, ol{margin-bottom: 1.4rem; font-size:2rem;}
-      ol li, ul li{margin-bottom: 1rem;}
+      ol li, ul li{margin-bottom: 1rem; margin-top:1rem;}
       
+      blockquote, .blockquote {display:block; border-left: 8px solid #e55e74; padding-left: 1rem; color:#555; font-size:2rem;}
+      {border-left: 8px solid #ddd; padding-left: 1rem; color:#555; font-size:2rem;}
+      .inverse blockquote{border-left: 8px solid #ddd; padding-left: 1rem; color:#e3e3e3 font-size:2rem;}
+
       .inverse .footnote {
         color: #ffca28;
       }      
       .inverse {
-        background: #272822;
-        color: #fefefe;
+    background: #26bdbd;
+    color: #fefefe;
         text-shadow: 0 0 20px #333;
       }
       .inverse h1, .inverse h2 {
-        color: #f3f3f3;
+        color: #111;
         line-height: 0.8em;
       }
       
@@ -76,73 +109,81 @@
   <body>
     <textarea id="source">
 
+
 class: left, middle, inverse
 
-# 09. Innovación centrada en las personas
-## 20200213
+# 08. Ontologías de modelos de negocio
+## 20210407
 
 ---
 
-class: inverse, middle, center
+# Definición original
+La ontología es un concepto de la filosofía enfocado en explicar *la naturaleza del ser*.
 
-# Diseño centrado en las personas
-
-.center[<iframe width="560" height="315" src="https://www.youtube.com/embed/yY96hTb8WgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
-
----
-
-# Actividad
-
-## En solo 20 minutos:
-
-1. Buscar documento llamado "Resumen" en carpeta de tareas desde teléfono o laptop.
-2. Leer solamente la sección de ensayo.
-3. Hacer resumen colaborativo.
-    - Seleccionar frases interesantes
-    - Organizar por ideas similares (5 máx.)
+>_La ontología (del griego antiguo ὄν [on] —genitivo ὄντος— [ontos], 'ente'; y λόγος [lógos] 'ciencia, estudio, teoría') o metafísica general es la rama de la filosofía que estudia lo que hay, así como las relaciones entre los entes._
+.footnote[De https://es.wikipedia.org/wiki/Ontolog%C3%ADa]
 
 ---
-class: inverse
-# Proyecto: LoRa Data-Loggers for environmental quality
+class: middle, inverse
+# En teoría de la información
 
-Environmental monitoring is essential due to the variety of ways in which it is threatened. Usually recording environmental variables can be carried out by private data loggers. These devices, due to their high costs, or being of closed design, do not allow us to buy in quantity or build them. Our proposal consists in the design and development of open hardware data loggers with LoRaWan technology for communication with devices for downloading data. The data loggers will be of two types: aquatic and terrestrial. Aquatics will measure relevant data for the determination of water quality such as turbidity, dissolved oxygen, conductivity and pH. The terrestrial, will measure bee activity variables in hive, biological indicators of environmental quality.
+.center.image[![ontology](../img/1033px-Ontology_Scheme.png)]
 
-.footnote[[Archivo README](https://github.com/Open-Hardware-Leaders/LoRa-Data-Loggers-for-environmental-quality/blob/master/README.md)]
-
+.footnote[Ontology Scheme by Florian Thiery. https://commons.wikimedia.org/wiki/File:Ontology_Scheme.png]
 ---
 
-# Glosario
+class:middle
+>_En ciencias de la computación y ciencias de la comunicación, una ontología es una definición formal de tipos, propiedades, y relaciones entre entidades que realmente o fundamentalmente existen para un dominio de discurso en particular. Es una aplicación práctica de la ontología filosófica, con una taxonomía._
 
-* Enrivonmental monitoring: medición y evaluación de variables ambientales durante un periodo determinado.
-* Data logger: Dispositivo electrónico que registra mediciones de forma asidua.
-* LoRa: Tecnología de bajo consumo y alto alcance. Se utiliza para la comunicación entre sensores y otros dispositivos de registran y transmiten a un bajo ancho de banda (pocos datos).
-
----
-
-class: inverse, center
-
-# Usuarios
-.large-image[![Creatividad sociocultural](../img/09-vpc.png)]
+.footnote[Ontología (informática). En Wikipedia. https://es.wikipedia.org/wiki/Ontolog%C3%ADa_(inform%C3%A1tica)]
 
 ---
+## BTS y su ontología
+.large-image[![BTS](../img/bts.png)]
+---
 
-# Tarea: Propuestas de valor
+class:middle
+.large-image[![BTS](../img/bts2.png)]
 
-## Premisas
-* Han sido contratadxs como consultorxs.
-* No van a diseñar la tecnología.
-* Considerar principalmente el contexto local.
+---
+class:middle
+.large-image[![BTS](../img/bts3.png)]
+---
 
-## Actividades
-* Diseñar propuesta de valor para el "cliente".
-* Hacer una lista de preguntas en un documento colaborativo.
+class:middle
+.large-image[![DBPedia](../img/dbpedia.jpg)]
 
+---
+class:inverse, middle
+# ¿Qué tiene que ver con los modelos de negocio?
+---
 
+class:middle
+.large-image[![Osterwalder](../img/osterwalder ontology.jpg)]
 
-<!-- 1. Descargar y leer: https://creativecommons.org/use-remix/made-with-cc/
-1. Hacer un mapa mental (mindmap) que relacione los modelos de negocios de los 24 casos de estudio del libro. Puede ser a mano.
-1. Piensen: ¿cuáles van a funcionar, cuáles no?
-1. Traer impreso el próximo miércoles.-->
+---
+class:middle
+.large-image[![Osterwalder](../img/bmc.png)]
+---
+
+class:middle
+El Business Model Canvas es un modelo ontológico para observar modelos de negocio en su mínima expresión.
+
+---
+class:middle
+.large-image[![Osterwalder](../img/infobox esen.png)]
+---
+
+# ¿Por qué es efectivo?
+1. Facilita la abstracción de una idea compleja (el modelo de negocios)
+1. Permite comparar entre modelos muy similares
+1. Sirve para hacer modificaciones de forma sencilla
+
+---
+class: inverse, middle
+# Preguntas:
+## ¿Por qué es innovador este modelo (BMC)?
+## ¿Bajo qué criterios es innovador?
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">

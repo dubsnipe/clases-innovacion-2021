@@ -88,7 +88,7 @@ Las principales estrategias metodológicas es esta cátedra serán las clases ex
 * Tutela de Derechos Humanos del Arzobispado de San Salvador. (n.d.). Situación actual del agua en El Salvador. Retrieved February 19, 2021, from http://tuteladh.org/sitioweb/situacion-actual-del-agua-en-el-salvador/
 * Ubiquity staff. (2003). Building an inventive organization. Ubiquity, 2003(June), 1. https://doi.org/10.1145/782795.782796
 * Using Emergence To Take Social Innovations To Scale – Margaret J. Wheatley. (n.d.). Retrieved February 5, 2021, from https://margaretwheatley.com/library/articles/using-emergence-take-social-innovations-scale/
-* Van Amstel, F., Gonzatto, R. F., Junges, E., Costa, R., Veloso, D., da Cruz Costa, K., Marins, P., Giuliano, R., Chuves, V., Fuchs, F., Ferraz, G., & Rückert, A. (2012). Diseño Libre (E. Velis, P. Álvarez, J. Soto Galindo, S. Henríquez, I. Sol, R. Flores, S. Burgos, & D. Palacios, Trans.; 1st ed.). Instituto Faber-Ludens. http://designlivre.org/
+* Van Amstel, F., Gonzatto, R. F., Junges, E., Costa, R., Veloso, D., da Cruz Costa, K., Marins, P., Giuliano, R., Chuves, V., Fuchs, F., Ferraz, G., & Rückert, A. (2012). Diseño Libre (E. Velis, P. Álvarez, J. Soto Galindo, S. Henríquez, I. Sol, R. Flores, S. Burgos, & D. Palacios, Trans.; 1st ed.). Instituto Faber-Ludens. https://dubsnipe.github.io/disenolibre/
 * Visser, W. (2020). Integrated Innovation: Applying Systems Thinking to Sustainable Innovation and Transformation. Sustainability, 12(13), 5247.
 * Von Hippel, E. (2016). Free innovation. The MIT Press.
 * What Is Disruptive Innovation? (2015, December 1). Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
