@@ -1,51 +1,81 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>01. Introducción a la innovación - 20200120</title>
+    <title>01. Introducción a la innovación - 20200512</title>
     <meta charset="utf-8">
     <!-- https://github.com/gnab/remark -->
     <style>
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
       @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Viga&display=swap');
-       @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;600&display=swap');
+	  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap');
 
-      body { font-family: 'Rubik'; font-weight: 300; font-size:1.3rem;}
-      h1, h2, h3 { font-family: 'Rubik', sans-serif; font-weight: 600; margin: .5rem 0; padding: 0; }
+	  body{
+			font-family: 'Rubik', sans-serif;
+			color: rgba(10, 10, 10, 0.85);
+		}
+	  .remark-slide-content{
+			background: #e7d77f;
+		
+	  }
+      div p {font-size:2rem;}
+          
+
+    h1{
+        text-shadow: 3px -3px .05px #ee84a4, -3px 2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h2{
+        text-shadow: none;
+    }	
+    #upcoming h2, h3{
+        text-shadow: 2px -2px .05px #ee84a4, -2px 1px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1:hover,h2:hover,h3:hover{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1::selection,h2::selection,h3::selection{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+        background:white;
+    }
+      .footnote a, .footnote a:hover, .footnote a:visited{text-decoration:none;}
+      .inverse a, .inverse a:visited{color:white; text-decoration:underline;}
+                a:visited{color:blue;}
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
       .footnote {
         position: absolute;
         bottom: 1em;
         right: 5rem;
-        <!-- color: #ffca28; -->
         color: #111;
         padding: 0.3rem;
         margin: 5px;
         text-align: right;
         font-size: 0.6rem;
       }
-      ul li, ol li{margin-bottom: 1.4rem;}
-      ol li ul li, ul li ol li{
-        margin: 2px;
-      }
+      h3{color:#555; border-left: 10px solid #666; padding-left: 1rem;}
+      p{font-size:1.4rem;}
+      ul, ol{margin-bottom: 1.4rem; font-size:2rem;}
+      ol li, ul li{margin-bottom: 1rem; margin-top:1rem;}
+      
+      blockquote, .blockquote {display:block; border-left: 8px solid #e55e74; padding-left: 1rem; color:#555; font-size:2rem;}
+      {border-left: 8px solid #ddd; padding-left: 1rem; color:#555; font-size:2rem;}
+      .inverse blockquote{border-left: 8px solid #ddd; padding-left: 1rem; color:#e3e3e3 font-size:2rem;}
+
       .inverse .footnote {
         color: #ffca28;
       }      
       .inverse {
-        background: #272822;
-        color: #fefefe;
+    background: #26bdbd;
+    color: #fefefe;
         text-shadow: 0 0 20px #333;
       }
       .inverse h1, .inverse h2 {
-        color: #f3f3f3;
+        color: #111;
         line-height: 0.8em;
       }
-      .inverse a {
-        color: #f3f3f3;
-      }
-      blockquote{
-        border-left: 10px solid #bbb;
-        padding-left: 1rem;
-      }
+      
       /* Two-column layout */
       .left-column {
         color: #777;
@@ -67,7 +97,12 @@
         text-align: center;
         margin: 0 auto;
       }
-
+      .large-image img{
+        min-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+      }
+      .white{color:white;}
     </style>
   </head>
   <body>
@@ -76,29 +111,31 @@
 class: left, middle, inverse
 
 # 01. Creatividad e innovación
-## 20210120
+## 20200512
 
 ---
 
-
-# Objetivos de aprendizaje
-
-Al finalizar este curso, el alumno **conocerá** la definición y fundamentos de la Innovación en el Siglo XXI, **desarrollará habilidades** para la innovación desde un enfoque centrado en las personas, entenderá de manera sistémica la **aplicación de técnicas y herramientas** de innovación y diseño de negocios y podrá **desarrollar un proyecto de innovación** con enfoque en propuestas de valor de alto impacto para la sociedad y/o sectores productivos clave.
- 
 ---
 
-# Objetivos de aprendizaje
+# Competencias
 
-- **conocerá** la definición y fundamentos de la Innovación en el Siglo XXI
-- **desarrollará habilidades** para la innovación desde un enfoque centrado en las personas
-- entenderá (..) **aplicación de técnicas y herramientas** de innovación y diseño de negocios 
-- **desarrollar un proyecto de innovación** (...) para la sociedad y/o sectores productivos clave.
- 
+Al finalizar este curso, el alumno habrá:
+
+* Conocido la definición, fundamentos (históricos y teóricos) y tipos de innovación para **identificar qué es y no es innovación** desde un enfoque multidimensional (...)
+* Identificado **cómo** las personas, las organizaciones y las sociedades **accionan la innovación** en diferentes campos (...)
+
+---
+# Competencias
+
+* Aplicado **técnicas y herramientas** de innovación para el diseño de negocios o iniciativas de impacto social
+* Desarrollado un **proyecto grupal de innovación** consistente en un modelo de negocios (...)
+
+
 ---
 
 # Otros objetivos
 
-- Saber reconocer la creatividad e innovación.
+- Aprender a reconocer la creatividad e innovación.
 - Comprender qué se requiere para ser innovador.
 - Aprender a accionar innovación en una organización.
 - Diseñar modelos de negocios innovadores.
@@ -113,44 +150,23 @@ Existen varios enfoques con respecto a la innovación:
 
 ---
 
-# Enfoque individual
-> Capacidad mental
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uEzGHg-JBZU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-.footnote[Another "Giant Steps" by the other Sax Robot <br> https://www.youtube.com/watch?v=uEzGHg-JBZU]
-
----
-
-# Enfoque individual
-> Capacidad mental
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tD6WgVTe5o" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-.footnote[How a Chess Genius Thinks <br> https://www.youtube.com/watch?v=7tD6WgVTe5o]
-
----
-
 # Enfoque colectivo
 
 .center[![Creatividad sociocultural](img/01-sawyer.png)]
 .footnote[Sawyer, R. Keith. Explaining creativity: The science of human innovation. Oxford university press, 2011.]
 
-Pregunta: ¿Puede la creatividad considerarse innovación? ¿Bajo qué circunstancias?
+---
+class:middle,inverse
+
+## .white[Pregunta: ¿Puede la creatividad considerarse innovación? ¿Bajo qué circunstancias?]
 
 ---
 
 class: inverse, middle, center
 
-"La creatividad y la innovación son dos conceptos distintos (...) creatividad es la generación de ideas novedosas y apropiadas, mientras que la innovación implementa esas ideas y **cambia el orden de las cosas en el mundo.**"<sup>[1]</sup>
+"La creatividad y la innovación son dos conceptos distintos (...) creatividad es la generación de ideas novedosas y apropiadas, mientras que la innovación implementa esas ideas y **cambia el orden de las cosas en el mundo.**"
 
-.footnote[[1] Mauzy, Jeff, and Richard A. Harriman. Creativity, Inc. Boston, MA: Harvard Business School Press, 2003.]
-
----
-
-class: inverse
-# Actividad
-
-1. Hacer una lista de palabras relacionadas con la innovación: https://miro.com/app/board/o9J_lYGmjPM=/
-2. Clasificar las ideas en grupos.
+.footnote[Mauzy, Jeff, and Richard A. Harriman. Creativity, Inc. Boston, MA: Harvard Business School Press, 2003.]
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
