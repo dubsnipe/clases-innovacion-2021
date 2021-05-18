@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>02. Problemas enredados 20210517</title>
+  
+    <meta charset="utf-8">
+    <!-- https://github.com/gnab/remark -->
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Viga&display=swap');
+	  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap');
+
+	  body{
+			font-family: 'Rubik', sans-serif;
+			color: rgba(10, 10, 10, 0.85);
+		}
+	  .remark-slide-content{
+			background: #e7d77f;
+		
+	  }
+      div p {font-size:2rem;}
+          
+
+    h1{
+        text-shadow: 3px -3px .05px #ee84a4, -3px 2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h2{
+        text-shadow: none;
+    }	
+    #upcoming h2, h3{
+        text-shadow: 2px -2px .05px #ee84a4, -2px 1px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1:hover,h2:hover,h3:hover{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+    }
+    h1::selection,h2::selection,h3::selection{    
+        text-shadow: -3px 3px .05px #ee84a4, 3px -2px #e7d77f;
+        transition:text-shadow .5s;
+        background:white;
+    }
+      .footnote a, .footnote a:hover, .footnote a:visited{text-decoration:none;}
+      .inverse a, .inverse a:visited{color:white; text-decoration:underline;}
+                a:visited{color:blue;}
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .footnote {
+        position: absolute;
+        bottom: 1em;
+        right: 5rem;
+        color: #111;
+        padding: 0.3rem;
+        margin: 5px;
+        text-align: right;
+        font-size: 0.6rem;
+      }
+      h3{color:#555; border-left: 10px solid #666; padding-left: 1rem;}
+      p{font-size:1.4rem;}
+      ul, ol{margin-bottom: 1.4rem; font-size:2rem;}
+      ol li, ul li{margin-bottom: 1rem; margin-top:1rem;}
+      
+      blockquote, .blockquote {display:block; border-left: 8px solid #e55e74; padding-left: 1rem; color:#555; font-size:2rem;}
+      {border-left: 8px solid #ddd; padding-left: 1rem; color:#555; font-size:2rem;}
+      .inverse blockquote{border-left: 8px solid #ddd; padding-left: 1rem; color:#e3e3e3 font-size:2rem;}
+
+      .inverse .footnote {
+        color: #ffca28;
+      }      
+      .inverse {
+    background: #26bdbd;
+    color: #fefefe;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #111;
+        line-height: 0.8em;
+      }
+      
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+      img{
+        max-width: 70%;
+        max-height: 70%;
+        text-align: center;
+        margin: 0 auto;
+      }
+      .large-image img{
+        min-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: left, middle, inverse
+
+# 02. Problemas enredados 
+## 20210517
+---
+class: left, middle, inverse
+# Premisa
+## ¡Resolver problemas es difícil!
+
+---
+# Linealidad
+.large-image[![caja negra](../img/Black_box_queue_diagram.png)]
+
+---
+# Linealidad
+* Los problemas tienen inicio y final
+* Su solución es usualmente lineal
+* Es posible reconocer el estado final (problema resuelto)
+
+---
+class:middle
+.large-image[![caja negra](../img/640px-MLCC-Manufacturing-Process.png)]
+.footnote[MLCC-Manufacturing-Process by Elcap (CC0)]
+
+---
+class:middle
+.large-image[![caja negra](../img/Siphon_physics_principles.jpg)]
+.footnote[Siphon principles by TheoDeKlerk (CC BY-SA 3.0)]
+
+---
+.large-image[![caja negra](../img/640px-OpenSystemRepresentation-es.svg.png)]
+.footnote[OpenSystemRepresentation-es by Krauss (traducido por ZebaX2010) (CC BY-SA 4.0)]
+
+---
+class:inverse, middle
+# Problemas enredados
+Los problemas enredados (Rittel, H. W., & Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy sciences, 4(2), 155-169) están basados en la idea de los sistemas abiertos y caóticos; esto implica que son muy complejos para analizarse de forma lineal.
+
+---
+class:middle
+.large-image[![complexity](../img/640px-History_of_complexity_science.jpg)]
+.footnote[History of complexity science.jpg by Brian Castellani, User:Bcaste (CC BY-SA 3.0)]
+
+---
+# Algunos principios
+* No existe una formulación definitiva de un problema enredado.
+* No existe un estado final de un problema enredado.
+* No es posible definir soluciones verdaderas o falsas, sino buenas y malas.
+* No hay un método para validar la mejor solución.
+* Solo existe una oportunidad para solucionarlo en su estado actual.
+---
+* No se pueden enumerar sus posibles soluciones.
+* Cada problema enredado es esencialmente único.
+* Todo problema enredado es el síntoma de otro problema.
+* La explicación propuesta del problema plantea la solución.
+* El planeador no puede darse el lujo de estar equivocado.
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
+
+<!-- 
+# Vídeo
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+```
+
+# Images
+```
+.center[![Creatividad sociocultural](img/01-sawyer.png)]
+
+.right[![Right-aligned image](https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg)]
+```
+
+# Background images
+The background-image slide property lets you set the background-image CSS property for the slide:
+
+``
+background-image: url(image.jpg)
+
+Slide with background image
+```
+
+-->
