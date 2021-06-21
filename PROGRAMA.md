@@ -1,42 +1,50 @@
 # Introducción a la innovación
 
 ## Descripción
-La Innovación actualmente es uno de los pilares estratégicos fundamentales de las organizaciones y del mundo de los negocios. Asimismo, cabe destacar que la innovación empresarial consiste en términos generales en la introducción de un nuevo o significativamente mejorado producto, proceso, método de comercialización u organizativo en las prácticas internas de la empresa.
-
-Esta cátedra tiene como objetivo sentar los fundamentos de la innovación como un campo de acción estratégico para mantener vigente la propuesta de valor de las organizaciones, buscando que su propósito sea vigente con los grandes cambios que el mundo está teniendo con las olas tecnológicas, cada vez más frecuentes en su nacimiento, desarrollo y transición hacia nuevas disrupciones.
-
-Se invitarán a profesionales líderes de las temáticas del curso para brindar insumos y casos de análisis y ellos tendrán a su vez un rol de seguimiento en los resultados a presentarse en los proyectos finales, para aportar al proceso de forma integral y sustancial.
+A lo largo de la historia, la búsqueda de soluciones ante los grandes retos sociales, económicos y ambientales de la humanidad ha estado íntimamente relacionada con el concepto de innovación. La evolución de cómo las sociedades definen la innovación coincide con la forma en que las mismas entienden la naturaleza de los retos del desarrollo. 
+Así como antes de concebir y medir el progreso desde una perspectiva del desarrollo humano, las sociedades utilizaban medidas eminentemente económicas como el Producto Interno Bruto, la innovación se concebía desde una óptica exclusivamente de investigación y desarrollo para la comercialización de productos nuevos.
+El Informe sobre Desarrollo Humano del Programa de las Naciones Unidas para el Desarrollo 2020 “La próxima frontera: El desarrollo humano y el Antropoceno” apoya la hipótesis de que la capacidad de actuación y el empoderamiento de las personas pueden impulsar las medidas necesarias para que vivamos en equilibrio con el planeta y en un mundo más justo. El Informe pone de manifiesto que nos encontramos en un momento sin precedentes en la historia, en el que la actividad humana se ha convertido en una fuerza dominante que afecta a los procesos clave del planeta. Estos efectos interactúan con las desigualdades existentes y amenazan con revertir el desarrollo de manera significativa. 
+El informe también plantea que para cambiar esta trayectoria se requiere una gran transformación en nuestra forma de vivir, trabajar y cooperar. Este planteamiento coincide con el surgimiento de una corriente de pensamiento emergente que contempla que las políticas públicas de innovación deben seguir una lógica de proceso de investigación a un nivel sistémico guiado por objetivos sociales y ambientales que busquen no solo reparar los fallos de dirección, coordinación de políticas públicas, articulación de la demanda y reflexión. Esta nueva corriente se conoce como innovación transformativa.
+Esta clase tendrá como objetivo sentar los fundamentos de la innovación como un campo de acción estratégico para crear propuestas de valor que contribuyan a la transformación de los sistemas de negocios, sector público y de impacto social necesaria para la consecución de la agenda 2030 y los Objetivos del Desarrollo Sostenible. 
+El curso explorará los fundamentos de la innovación a través de una revisión de los conceptos y tipos de innovación (para efectos de la clase: corporativa, pública y de impacto social) analizados (1) teóricamente a través del desarrollo humano y la transformación sistémica y (2) prácticamente a través de la aplicación de herramientas para la creación de propuestas de valor innovadoras.
+Esta es una clase basada en la la investigación y discusión entre pares sobre las características individuales y organizacionales requeridas para desarrollar innovación y la producción creativa a través de proyectos cortos conceptuales, audiovisuales y tecnológicos que servirán para entender cómo las personas, las organizaciones y las sociedades crean propuestas de valor que contribuyan al desarrollo sostenible y a la transformación de los sistemas. También se invitarán a profesionales líderes de las temáticas del curso para brindar insumos y casos de análisis como refuerzo de los temas de estudio e insumos para el proyecto final de curso. 
 
 ## Competencias específicas
-Al finalizar este curso, el alumno (1) conocerá la definición y fundamentos de la innovación en el Siglo XXI, (2) desarrollará habilidades para identificar la innovación desde un enfoque centrado en las personas, (3) entenderá la aplicación de técnicas y herramientas de innovación y diseño de negocios, y (4) desarrollará un proyecto de innovación para crear impacto a la sociedad.
+Al finalizar este curso, el alumno habrá:
+1. Conocido la definición, fundamentos históricos y teóricos sobre la innovación de distintos tipos, para identificar qué es y no es innovación desde un enfoque multidimensional que considere aspectos económicos, sociales, culturales y ambientales.
+1. Identificado cómo las personas, las organizaciones y las sociedades accionan la innovación en diferentes campos de investigación, mercados y en la solución a problemas del desarrollo y la transformación de sistemas.
+1. Aplicado técnicas y herramientas de innovación para el diseño de negocios o iniciativas de impacto social.
+1. Desarrollado un proyecto grupal de innovación consistente en un modelo de negocios que genere valor a una propuesta tecnológica preexistente, para fines comerciales o de impacto social. 
+
+## Estrategia metodológica
+Las principales estrategias metodológicas es esta cátedra serán las clases expositivas, proyecto de innovación transversal utilizando el Kit de Aceleración del Laboratorio de Aceleración del Programa de las Naciones Unidas para el Desarrollo (PNUD); lectura de libros; artículos y ensayos; revisión de materiales bibliográficos multimedia (video y podcast); visitas de campo (si lo permitieran las medidas de prevención de contagios ante el COVID-19 establecidas por la universidad); intercambios virtuales con expertos en diversas temáticas alrededor de la innovación y talleres prácticos de uso de técnicas y herramientas de innovación, pensamiento de diseño (design thinking) y diseño de negocios.
+
+## Horario de clases
+Clases sincrónicas: lunes y martes 4:30 pm; jueves a las 2:40pm sesión virtual en el siguiente ENLACE.
+Las clases sincrónicas serán subidas al Moodle (alojadas en el servidor stream) para su posterior revisión para los no asistentes.
+Nota: Las jornadas de aceleración o las sesiones sincrónicas podrán sustituirse por actividades o revisiones bibliográficas asincrónicas previa notificación del profesor.
+
 
 ## Contenido
 
-### Innovación. Definición y Fundamentos
-1. Qué es innovación
-1. Casos de estudio en innovación
-1. Procesos creativos y de innovación
-1. Innovación centrada en las personas
-1. Características de las organizaciones innovadoras
-
-### Métodos para accionar la innovación
-1. El poder de la colaboración
-1. Habilidades de organizaciones innovadoras del Siglo XXI
-1. Innovación y ecosistemas de innovación
-1. Aceleración de ecosistemas de innovación
-
-### Diseño de negocios
-1. Diseño como herramienta para crear e incrementar valor.
-2. Modelos de negocio, fundamentos e implicaciones
-3. Ontologías de modelos de negocio
-4. Casos de estudio de diseño de negocios
-
-### Proyectos de innovación y diseño de negocios
-1. Diseño de propuestas de valor
-2. La importancia de las nuevas tecnologías en la creación de valor
-3. Modelos de investigación y desarrollo de la innovación
-4. Lean Startup: ciclo de aprendizaje validado
-5. Cómo elaborar una presentación exitosa
+###  Innovación: definición y fundamentos
+Definiendo la innovación
+Complejidad y problemas enredados (wicked problems)
+Problemas enredados
+Tipos de innovación: Innovación corporativa, Innovación social + Innovación de base, Innovación del sector público
+### Métodos para promover la inovación
+El valor del diseño en la innovación
+La creación de propuestas de valor innovadoras
+La innovación desde las organizaciones 
+Los ecosistemas de innovación
+Incubación y aceleración de la innovación
+### Innovación en acción
+Innovación centrada en las personas
+Innovación abierta
+Modelos de negocio innovadores
+La importancia de las nuevas tecnologías en la innovación
+Prototipando la innovación 
+Comunicando la innovación
 
 ## Estrategia metodológica
 Las principales estrategias metodológicas es esta cátedra serán las clases expositivas, proyecto transversal, lectura de libros y ensayos, visitas de campo y talleres prácticos de uso de técnicas y herramientas de innovación, design thinking y diseño de negocios.
